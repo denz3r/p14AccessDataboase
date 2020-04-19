@@ -1,0 +1,9 @@
+C:\Users\Denz\source\repos\project14DB\project14DB\bin\Debug\project14DB.exe.config
+C:\Users\Denz\source\repos\project14DB\project14DB\bin\Debug\project14DB.exe
+C:\Users\Denz\source\repos\project14DB\project14DB\bin\Debug\project14DB.pdb
+C:\Users\Denz\source\repos\project14DB\project14DB\obj\Debug\project14DB.csprojAssemblyReference.cache
+C:\Users\Denz\source\repos\project14DB\project14DB\obj\Debug\project14DB.Form1.resources
+C:\Users\Denz\source\repos\project14DB\project14DB\obj\Debug\project14DB.Properties.Resources.resources
+C:\Users\Denz\source\repos\project14DB\project14DB\obj\Debug\project14DB.csproj.GenerateResource.cache
+C:\Users\Denz\source\repos\project14DB\project14DB\obj\Debug\project14DB.exe
+C:\Users\Denz\source\repos\project14DB\project14DB\obj\Debug\project14DB.pdb
